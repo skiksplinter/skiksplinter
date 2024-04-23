@@ -2,6 +2,7 @@
 
 - 🔭 Hoje eu trabalho com Despachante Documentalista
 - 🌱 Estudando JavaScript, React, POO ...
+- 🌱 Estudando Filosofia ...
 - 😄 Pronouns: ele/dele
 - ⚽ Futebol : São Paulo
 
